@@ -1,0 +1,57 @@
+body{
+	background: url(http://s19.postimg.org/h4mj525cj/netherlandsmapthumb.jpg) no-repeat fixed;
+	background-size: 30%;
+	background-position: center bottom;
+}
+.title{text-align: center;}
+.prov_img{width:40%;
+	height:250px;
+	float:right;
+	background:#fff url("http://www.balaniinfotech.com/wp-content/themes/balani/images/noimage.jpg") center no-repeat;
+	background-size: 50%;
+	color:#000;
+	margin: 20px;
+}
+.pages_container{width:100%;background:rgba(255,255,255,0.7);}
+
+.page_img{
+	width:50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.province_style{background: rgba(204, 204, 204, 0.14);
+	float:left;
+	margin-bottom: 10px;
+	padding:10px;
+	border:1px solid #ccc;
+	margin-top: 10px;
+	border-radius: 10px;
+	background: rgba(255,255,255,0.8);
+}
+
+.province_container div:nth-child(2n+1) {  
+  background: rgba(0,0,0,0.8);
+  color:#fff;
+}
+
+.dropdown-menu>li>a:hover{
+	background-color: #333;
+	color:#fff;
+}
+
+input[type=text] {
+    height: 45px;
+    opacity: 0.8;
+}
+
+label{
+	font-size: 20px;
+}
+
+h1,h2,h3,p,h5{
+-webkit-text-shadow: 1px 1px 0px rgba(255,255,255,0.5);
+-moz-text-shadow: 1px 1px 0px rgba(255,255,255,0.5);
+text-shadow: 1px 1px 0px rgba(255,255,255,0.5);
+ text-align: justify !important;
+}
