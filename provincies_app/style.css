@@ -4,10 +4,9 @@ body{
 	background-position: center bottom;
 }
 .title{text-align: center;}
-.prov_img{width:40%;
+.prov_img{
 	height:250px;
 	float:right;
-	background:#fff url("http://www.balaniinfotech.com/wp-content/themes/balani/images/noimage.jpg") center no-repeat;
 	background-size: 50%;
 	color:#000;
 	margin: 20px;
